@@ -1,6 +1,6 @@
 Sanmao SMTP Cracker 1.7.5 for brute-forcing and cracking SMTP
 
-![Screenshot](/Sanmao SMTP Cracker 1.75.png)
+![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
